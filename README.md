@@ -9,6 +9,7 @@ In this repo, you will find useful reusuable templates to:
   <li> Explain procedures: <b> How-to guides </b> </li>
   <li> Add extra information for reference: <b> Reference documentation </b> </li>
   </ol>
+  
  ## Bibliographical References and Additional Notes
  
  The material you will find on this repo has been prepared based on my experience as Technical Writer and the following sources:

@@ -9,6 +9,7 @@ In this repo, you will find useful reusuable templates to:
   <li> Explain procedures: <b> How-to guides </b> </li>
   <li> Add extra information for reference: <b> Reference documentation </b> </li>
   </ol>
+  All the documents are available in the folder titled <i>css-practice </i>.
   
  ## Bibliographical References and Additional Notes
  
